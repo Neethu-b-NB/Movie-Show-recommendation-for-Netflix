@@ -15,4 +15,7 @@ The dataset provided consists of a list of all the TV shows/movies available on 
     Duration: Total Duration - in minutes or number of seasons <br>
     Listed_in: Genre <br>
     Description: The summary description <br>
+    
+    The dataset had details of 8807 unique movies/shows. While analysing it was observed  that there the count of null values present are 2634,825,831,10,4 and 3  in attributes Director,Cast,Country,date_added,rating and duration respectively.<br>
+    The movies were added between March 2,2019 and September 25,2021. Most of the movies/Shows are from United States from a total of 748 countries. 
 
